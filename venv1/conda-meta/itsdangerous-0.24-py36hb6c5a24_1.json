@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36hb6c5a24_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/itsdangerous.cpython-36.pyc",
+    "Lib/site-packages/itsdangerous-0.24-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/itsdangerous-0.24-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/itsdangerous-0.24-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/itsdangerous-0.24-py3.6.egg-info/not-zip-safe",
+    "Lib/site-packages/itsdangerous-0.24-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/itsdangerous.py"
+  ],
+  "fn": "itsdangerous-0.24-py36hb6c5a24_1.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\cobbs\\Anaconda3\\pkgs\\itsdangerous-0.24-py36hb6c5a24_1",
+    "type": 1
+  },
+  "md5": "26d663933f958ba28efac3d172c04289",
+  "name": "itsdangerous",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 21060,
+  "subdir": "win-64",
+  "timestamp": 1506008714477,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/itsdangerous-0.24-py36hb6c5a24_1.tar.bz2",
+  "version": "0.24",
+  "with_features_depends": {}
+}
